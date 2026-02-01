@@ -6,7 +6,7 @@ This project was created as a submission for the **Deriverse Bounty** on Superte
 
 Live Demo: [https://deriverse-insight-hub.vercel.app/](https://deriverse-insight-hub.vercel.app/)
 
-![Dashboard Screenshot](https://via.placeholder.com/1200x600?text=Deriverse+Insight+Hub+Screenshot)  
+![Dashboard Screenshot](Dashboard Screenshot.png)  
 
 
 ## ✨ Features Implemented
