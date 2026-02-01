@@ -43,9 +43,7 @@ Future plans: Full on-chain data integration via Solana RPC (Deriverse program a
 - **Deployment**: Vercel
 - **Data**: Mock trading data (realistic Solana/Deriverse-style trades); ready for @solana/web3.js integration
 
-## 🚀 Quick Start (Local Setup)
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/duchth1993/deriverse-insight-hub.git
-   cd deriverse-insight-hub
+
+ Repo: https://github.com/duchth1993/deriverse-insight-hub.git
+
